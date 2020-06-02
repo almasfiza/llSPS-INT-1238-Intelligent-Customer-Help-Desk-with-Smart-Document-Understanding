@@ -1,0 +1,15 @@
+---
+applications:
+- instances: 1
+  timeout: 180
+  name: almasfiza
+  buildpack: sdk-for-nodejs
+  command: npm start
+  disk_quota: 1G
+  memory: 256MB
+  domain: eu-gb.mybluemix.net
+  host: almasfiza
+  services:
+    - almasfiza-cloudant-1590048062691-21475
+  env:
+    OPTIMIZE_MEMORY: true
