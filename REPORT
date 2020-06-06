@@ -50,6 +50,25 @@ This milestone was all about discovering all the helpful youtube resource videos
 Milestone 4:Explore IBM Cloud Functions
 
 
+Milestone 4: Explore IBM Cloud services.
+ 
+The videos given in the references were watched. Videos on restful APIs and web functions etcetera.
+
+Milestone 5:Customer Help Desk with Smart Documentation Understanding.
+
+The real work begins.
+----> Watson AI was trained with intents, responses and dialogs.
+----> Watson Discovery was provided with the document of MacBook manual in pdf form. The one document was divided into 92 documents
+based on the titles and sub headings. The Watson was trained by marking relevant and irrelevant answers to some 
+questions which were predefined in the intents.
+----> A webhook from Watson Discovery was used to connect to the Watson AI.
+----> A cloud function was used to create a  .json file to connect the Watson AI and Discovery.
+----> Node RED flow was imported. The Watson chatbot was used with the API credentials and a basic home page was made to test 
+the chatbot.
+----> The report was completed on the internship and a video was uploaded demonstrating the working of the model.
+----> All the code was uploaded on github.
+
+
 
 
 
