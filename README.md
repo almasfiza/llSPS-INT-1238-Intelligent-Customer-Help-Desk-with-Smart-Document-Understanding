@@ -1,6 +1,11 @@
 # llSPS-INT-1238-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
 Creator: Almasfiza Shaikh
 
+You can view the report doc at this link: https://docs.google.com/document/d/1mTIWE2Rf8UzuOD0vprOJX2pxnqrvJJWUBCs6cr0eL70/edit?usp=sharing
+
+The video for the project can be found on this link:
+https://www.youtube.com/embed/v8eJOrD01Z8
+
 --------------------------------------------------------------------------------------------------------
 
 Intelligent Customer Help Desk With Smart Document Understanding
