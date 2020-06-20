@@ -6,6 +6,8 @@ You can view the report doc at this link: https://docs.google.com/document/d/1mT
 The video for the project can be found on this link:
 https://www.youtube.com/embed/v8eJOrD01Z8
 
+Feedback video link: https://youtu.be/HEwo1T8MxRU
+
 --------------------------------------------------------------------------------------------------------
 
 Intelligent Customer Help Desk With Smart Document Understanding
